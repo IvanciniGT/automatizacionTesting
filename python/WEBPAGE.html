@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Title</title>
+    </head>
+    <body>
+        <h1>Encabezado de primer nivel</h1>
+        ...
+        <h6>Encabezado de nivel 6</h6>
+        <p>parrafos</p>
+        <ol>
+            <li id="lista1_item1">item 1 de lista ordenada</li>
+            <li>item 2 de lista ordenada</li>
+        </ol>
+        <ul>
+            <li class="establecen relacion css: Estilos">item 1 de lista ordenada</li>
+            <li>item 2 de lista ordenada</li>
+        </ul>
+        <a id="enlace" href="http://www.google.es">Enlaces</a>
+        <div>Panel que contiene otros elementos, con fines organizativos</div>
+        <form>
+            <input id="contraseña" name="contraseña" type="checkbox" ></input>
+            <button name="btn_cancelar"> Texto del boton</button>
+        </form>
+        <svg>Grafico vectorial</svg>
+        <p>
+            <span>Equivalente a un div, pero dentro de un parrafo.</span>
+        </p>
+        <input>
+    </body>
+</html>
+
+
+XPATH:
+nombres de elementos los separamos:
+ . por una barra  /: Padre-hijo: Ejemplo: div/p-> busca un parrafo que este dentro de un div
+ . por dos barras //: Ancestro: Ejemplo: div//p-> busca un parrafo que este donde sea, que
+                                                    por arriba en la jerarquia tenga un div
+
+/html/body/form/input -> 1 elemento
+/html//input -> 2 elemento
+//input -> 2 elementos
+
+Detras de los nombres podemos poner entre corchetes (tal que):
+ - numero: que puede haber varios, pero yo elijo solamente uno
+            //ul/li[1] dame el primero
+            //ul/li[2] dame el segundo
+ - expresiones: GUAY!!!!
+        contains(text(),'VALOR')
+            //svg[contains(text(),'Grafico')]
+            //svg[text()='Grafico']
+
+@-> atributos de un elemento
+    //a[@id='contraseña']
