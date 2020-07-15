@@ -1,0 +1,27 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven
+Built-By: olamy
+Build-Jdk: 11.0.5
+Extension-Name: parameterized-trigger
+Specification-Title: The Jenkins Plugins Parent POM Project
+Implementation-Title: parameterized-trigger
+Implementation-Version: 2.37
+Plugin-Class: hudson.plugins.parameterizedtrigger.Plugin
+Group-Id: org.jenkins-ci.plugins
+Short-Name: parameterized-trigger
+Long-Name: Jenkins Parameterized Trigger plugin
+Url: https://github.com/jenkinsci/parameterized-trigger-plugin
+Minimum-Java-Version: 1.8
+Plugin-Version: 2.37
+Hudson-Version: 2.176.4
+Jenkins-Version: 2.176.4
+Plugin-Dependencies: conditional-buildstep:1.3.1,matrix-project:1.14,p
+ romoted-builds:3.5;resolution:=optional,script-security:1.71,subversi
+ on:2.13.1;resolution:=optional
+Plugin-Developers: 
+Plugin-License-Name: The MIT License (MIT)
+Plugin-License-Url: https://opensource.org/licenses/MIT
+Plugin-ScmUrl: https://github.com/jenkinsci/plugin-pom/parameterized-t
+ rigger
+

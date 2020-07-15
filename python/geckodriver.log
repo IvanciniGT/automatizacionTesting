@@ -385,3 +385,5 @@ JavaScript error: resource://gre/modules/URIFixup.jsm, line 203: NS_ERROR_FAILUR
 JavaScript warning: http://testing-ground.scraping.pro/js/vendor/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
 JavaScript warning: http://testing-ground.scraping.pro/js/vendor/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
 1593633311005	Marionette	INFO	Stopped listening on port 44269
+JavaScript error: https://jmeter.apache.org/download_jmeter.cgi, line 371: TypeError: as.getAttribute is not a function
+1593704128755	Marionette	INFO	Stopped listening on port 42303

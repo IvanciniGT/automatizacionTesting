@@ -1,0 +1,24 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven
+Built-By: Damian
+Build-Jdk: 1.8.0_111
+Extension-Name: cucumber-reports
+Specification-Title: The Jenkins Plugins Parent POM Project
+Implementation-Title: cucumber-reports
+Implementation-Version: 5.3.0
+Group-Id: net.masterthought.jenkins
+Short-Name: cucumber-reports
+Long-Name: Cucumber reports
+Url: https://github.com/jenkinsci/cucumber-reports-plugin
+Minimum-Java-Version: 1.8
+Plugin-Version: 5.3.0
+Hudson-Version: 2.138.4
+Jenkins-Version: 2.138.4
+Plugin-Dependencies: structs:1.20,token-macro:2.12
+Plugin-Developers: Damian Szczepanik:damianszczepanik:damianszczepanik
+ @github,Kingsley Hendrickse:kingsleyh:kingsley.hendrickse@gmail.com
+Plugin-License-Name: LGPL 2.1
+Plugin-License-Url: http://www.gnu.org/licenses/lgpl-2.1.html
+Plugin-ScmUrl: git@github.com:jenkinsci/cucumber-reports-plugin.git
+

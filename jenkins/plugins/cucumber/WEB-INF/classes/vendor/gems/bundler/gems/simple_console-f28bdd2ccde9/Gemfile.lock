@@ -1,0 +1,24 @@
+PATH
+  remote: .
+  specs:
+    simple_console (0.0.1)
+      term-ansicolor
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    ansi (1.4.3)
+    minitest (4.6.2)
+    rake (10.0.3)
+    term-ansicolor (1.1.1)
+    turn (0.9.6)
+      ansi
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  minitest
+  rake
+  simple_console!
+  turn

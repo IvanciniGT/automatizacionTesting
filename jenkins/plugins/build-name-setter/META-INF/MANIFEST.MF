@@ -1,0 +1,22 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven
+Built-By: Damian
+Build-Jdk: 1.8.0_111
+Extension-Name: build-name-setter
+Specification-Title: Changes default build name and description.
+Implementation-Title: build-name-setter
+Implementation-Version: 2.1.0
+Group-Id: org.jenkins-ci.plugins
+Short-Name: build-name-setter
+Long-Name: Build Name and Description Setter
+Url: https://github.com/jenkinsci/build-name-setter-plugin
+Minimum-Java-Version: 1.8
+Plugin-Version: 2.1.0
+Hudson-Version: 2.121.3
+Jenkins-Version: 2.121.3
+Plugin-Dependencies: matrix-project:1.14,token-macro:2.12
+Plugin-Developers: Damian Szczepanik:damianszczepanik:damianszczepanik
+ @github,Kohsuke Kawaguchi:kohsuke:kkawaguchi@cloudbees.com,Lev Mishin
+ :Le0:leomichine@gmail.com
+
