@@ -37,11 +37,5 @@ def step_impl(context,error_msg):
   print(context.navegador.find_element_by_xpath("//h3").text)
   assert context.navegador.find_element_by_xpath("//h3").text==error_msg
 
-
-@then('que tarde menos de \"{tiempo}\" segundos')
-def step_impl(context,tiempo):
-  ## Llamar a jmeter 50 veces y mirar el tiempo medio y ver que esta por debajo de ese valor
-  assert True
-
 def before_all(context):
   context.navegador.quit()

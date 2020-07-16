@@ -387,3 +387,7 @@ JavaScript warning: http://testing-ground.scraping.pro/js/vendor/jquery-1.9.1.mi
 1593633311005	Marionette	INFO	Stopped listening on port 44269
 JavaScript error: https://jmeter.apache.org/download_jmeter.cgi, line 371: TypeError: as.getAttribute is not a function
 1593704128755	Marionette	INFO	Stopped listening on port 42303
+1594919624842	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileGh2mU2"
+*** You are running in headless mode.
+Exiting due to channel error.
+Exiting due to channel error.

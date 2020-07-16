@@ -6,8 +6,7 @@ Característica: Pantalla de login
     Y al dar clic en el input de tipo submit con value: "Login"
     Entonces "no se permite" acceso al usuario
     Y genera mensaje de error "ACCESS DENIED!"
-    Y que tarde menos de "5" segundos
 
     Ejemplos:
-      |usuario       | password    |
-      |RUINA         | RUINA       |
+      |usuario       | password            |
+      |PERICO        | DE LOS PALOTES      |

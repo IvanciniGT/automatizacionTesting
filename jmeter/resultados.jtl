@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<httpSample t="489" it="0" lt="486" ct="293" ts="1594920975480" s="true" lb="Mostrar formulario" rc="200" rm="OK" tn="Usuarios 1-1" dt="text" by="2062" sby="398" ng="1" na="1">
+  <assertionResult>
+    <name>Aserción de Respuesta</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Aserción de Tamaño</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Aserción de Duración</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>http://testing-ground.scraping.pro/login</java.net.URL>
+</httpSample>
+<httpSample t="369" it="0" lt="187" ct="0" ts="1594920977354" s="true" lb="Mandar los datos" rc="200" rm="OK" tn="Usuarios 1-1" dt="text" by="3837" sby="1131" ng="1" na="1">
+  <httpSample t="187" it="0" lt="187" ct="0" ts="1594920977354" s="true" lb="Mandar los datos-0" rc="302" rm="Found" tn="Usuarios 1-1" dt="text" by="1955" sby="567" ng="1" na="1">
+    <java.net.URL>http://testing-ground.scraping.pro/login?mode=login</java.net.URL>
+  </httpSample>
+  <httpSample t="180" it="0" lt="180" ct="0" ts="1594920977543" s="true" lb="Mandar los datos-1" rc="200" rm="OK" tn="Usuarios 1-1" dt="text" by="1882" sby="564" ng="1" na="1">
+    <java.net.URL>http://testing-ground.scraping.pro/login?mode=welcome</java.net.URL>
+  </httpSample>
+  <java.net.URL>http://testing-ground.scraping.pro/login?mode=welcome</java.net.URL>
+</httpSample>
+<httpSample t="181" it="0" lt="181" ct="0" ts="1594920979136" s="true" lb="Ver respuesta" rc="200" rm="OK" tn="Usuarios 1-1" dt="text" by="1882" sby="471" ng="2" na="2">
+  <assertionResult>
+    <name>Aserción de Respuesta</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>http://testing-ground.scraping.pro/login?mode=welcome</java.net.URL>
+</httpSample>
+<httpSample t="408" it="0" lt="408" ct="202" ts="1594920980181" s="true" lb="Mostrar formulario" rc="200" rm="OK" tn="Usuarios 1-2" dt="text" by="2062" sby="398" ng="2" na="2">
+  <assertionResult>
+    <name>Aserción de Respuesta</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Aserción de Tamaño</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Aserción de Duración</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>http://testing-ground.scraping.pro/login</java.net.URL>
+</httpSample>
+<httpSample t="182" it="0" lt="181" ct="0" ts="1594920980573" s="true" lb="Mostrar formulario" rc="200" rm="OK" tn="Usuarios 1-1" dt="text" by="2061" sby="398" ng="2" na="2">
+  <assertionResult>
+    <name>Aserción de Respuesta</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Aserción de Tamaño</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Aserción de Duración</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>http://testing-ground.scraping.pro/login</java.net.URL>
+</httpSample>
+<httpSample t="413" it="0" lt="206" ct="0" ts="1594920981676" s="true" lb="Mandar los datos" rc="200" rm="OK" tn="Usuarios 1-2" dt="text" by="3837" sby="1131" ng="2" na="2">
+  <httpSample t="207" it="0" lt="206" ct="0" ts="1594920981676" s="true" lb="Mandar los datos-0" rc="302" rm="Found" tn="Usuarios 1-2" dt="text" by="1955" sby="567" ng="2" na="2">
+    <java.net.URL>http://testing-ground.scraping.pro/login?mode=login</java.net.URL>
+  </httpSample>
+  <httpSample t="206" it="0" lt="206" ct="0" ts="1594920981883" s="true" lb="Mandar los datos-1" rc="200" rm="OK" tn="Usuarios 1-2" dt="text" by="1882" sby="564" ng="2" na="2">
+    <java.net.URL>http://testing-ground.scraping.pro/login?mode=welcome</java.net.URL>
+  </httpSample>
+  <java.net.URL>http://testing-ground.scraping.pro/login?mode=welcome</java.net.URL>
+</httpSample>
+<httpSample t="363" it="0" lt="181" ct="0" ts="1594920981906" s="true" lb="Mandar los datos" rc="200" rm="OK" tn="Usuarios 1-1" dt="text" by="3837" sby="1131" ng="2" na="2">
+  <httpSample t="181" it="0" lt="181" ct="0" ts="1594920981906" s="true" lb="Mandar los datos-0" rc="302" rm="Found" tn="Usuarios 1-1" dt="text" by="1955" sby="567" ng="2" na="2">
+    <java.net.URL>http://testing-ground.scraping.pro/login?mode=login</java.net.URL>
+  </httpSample>
+  <httpSample t="181" it="0" lt="181" ct="0" ts="1594920982088" s="true" lb="Mandar los datos-1" rc="200" rm="OK" tn="Usuarios 1-1" dt="text" by="1882" sby="564" ng="2" na="2">
+    <java.net.URL>http://testing-ground.scraping.pro/login?mode=welcome</java.net.URL>
+  </httpSample>
+  <java.net.URL>http://testing-ground.scraping.pro/login?mode=welcome</java.net.URL>
+</httpSample>
+<httpSample t="207" it="0" lt="207" ct="0" ts="1594920983272" s="true" lb="Ver respuesta" rc="200" rm="OK" tn="Usuarios 1-2" dt="text" by="1882" sby="471" ng="2" na="2">
+  <assertionResult>
+    <name>Aserción de Respuesta</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>http://testing-ground.scraping.pro/login?mode=welcome</java.net.URL>
+</httpSample>
+<httpSample t="180" it="0" lt="180" ct="0" ts="1594920983827" s="true" lb="Ver respuesta" rc="200" rm="OK" tn="Usuarios 1-1" dt="text" by="1882" sby="471" ng="2" na="2">
+  <assertionResult>
+    <name>Aserción de Respuesta</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>http://testing-ground.scraping.pro/login?mode=welcome</java.net.URL>
+</httpSample>
+<httpSample t="207" it="0" lt="206" ct="0" ts="1594920984591" s="true" lb="Mostrar formulario" rc="200" rm="OK" tn="Usuarios 1-2" dt="text" by="2061" sby="398" ng="2" na="2">
+  <assertionResult>
+    <name>Aserción de Respuesta</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Aserción de Tamaño</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Aserción de Duración</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>http://testing-ground.scraping.pro/login</java.net.URL>
+</httpSample>
+<httpSample t="182" it="0" lt="182" ct="0" ts="1594920985729" s="true" lb="Mostrar formulario" rc="200" rm="OK" tn="Usuarios 1-1" dt="text" by="2061" sby="398" ng="2" na="2">
+  <assertionResult>
+    <name>Aserción de Respuesta</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Aserción de Tamaño</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Aserción de Duración</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>http://testing-ground.scraping.pro/login</java.net.URL>
+</httpSample>
+<httpSample t="411" it="0" lt="206" ct="0" ts="1594920986534" s="true" lb="Mandar los datos" rc="200" rm="OK" tn="Usuarios 1-2" dt="text" by="3837" sby="1131" ng="2" na="2">
+  <httpSample t="206" it="0" lt="206" ct="0" ts="1594920986534" s="true" lb="Mandar los datos-0" rc="302" rm="Found" tn="Usuarios 1-2" dt="text" by="1955" sby="567" ng="2" na="2">
+    <java.net.URL>http://testing-ground.scraping.pro/login?mode=login</java.net.URL>
+  </httpSample>
+  <httpSample t="205" it="0" lt="205" ct="0" ts="1594920986740" s="true" lb="Mandar los datos-1" rc="200" rm="OK" tn="Usuarios 1-2" dt="text" by="1882" sby="564" ng="2" na="2">
+    <java.net.URL>http://testing-ground.scraping.pro/login?mode=welcome</java.net.URL>
+  </httpSample>
+  <java.net.URL>http://testing-ground.scraping.pro/login?mode=welcome</java.net.URL>
+</httpSample>
+<httpSample t="360" it="0" lt="180" ct="0" ts="1594920987413" s="true" lb="Mandar los datos" rc="200" rm="OK" tn="Usuarios 1-1" dt="text" by="3837" sby="1131" ng="2" na="2">
+  <httpSample t="180" it="0" lt="180" ct="0" ts="1594920987413" s="true" lb="Mandar los datos-0" rc="302" rm="Found" tn="Usuarios 1-1" dt="text" by="1955" sby="567" ng="2" na="2">
+    <java.net.URL>http://testing-ground.scraping.pro/login?mode=login</java.net.URL>
+  </httpSample>
+  <httpSample t="179" it="0" lt="179" ct="0" ts="1594920987594" s="true" lb="Mandar los datos-1" rc="200" rm="OK" tn="Usuarios 1-1" dt="text" by="1882" sby="564" ng="2" na="2">
+    <java.net.URL>http://testing-ground.scraping.pro/login?mode=welcome</java.net.URL>
+  </httpSample>
+  <java.net.URL>http://testing-ground.scraping.pro/login?mode=welcome</java.net.URL>
+</httpSample>
+<httpSample t="207" it="0" lt="207" ct="0" ts="1594920988130" s="true" lb="Ver respuesta" rc="200" rm="OK" tn="Usuarios 1-2" dt="text" by="1882" sby="471" ng="2" na="2">
+  <assertionResult>
+    <name>Aserción de Respuesta</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>http://testing-ground.scraping.pro/login?mode=welcome</java.net.URL>
+</httpSample>
+<httpSample t="181" it="0" lt="181" ct="0" ts="1594920989074" s="true" lb="Ver respuesta" rc="200" rm="OK" tn="Usuarios 1-1" dt="text" by="1882" sby="471" ng="2" na="2">
+  <assertionResult>
+    <name>Aserción de Respuesta</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>http://testing-ground.scraping.pro/login?mode=welcome</java.net.URL>
+</httpSample>
+<httpSample t="206" it="0" lt="206" ct="0" ts="1594920989872" s="true" lb="Mostrar formulario" rc="200" rm="OK" tn="Usuarios 1-2" dt="text" by="2061" sby="398" ng="2" na="2">
+  <assertionResult>
+    <name>Aserción de Respuesta</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Aserción de Tamaño</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Aserción de Duración</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>http://testing-ground.scraping.pro/login</java.net.URL>
+</httpSample>
+<httpSample t="182" it="0" lt="182" ct="0" ts="1594920990651" s="true" lb="Mostrar formulario" rc="200" rm="OK" tn="Usuarios 1-1" dt="text" by="2061" sby="398" ng="2" na="2">
+  <assertionResult>
+    <name>Aserción de Respuesta</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Aserción de Tamaño</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Aserción de Duración</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>http://testing-ground.scraping.pro/login</java.net.URL>
+</httpSample>
+<httpSample t="413" it="0" lt="207" ct="0" ts="1594920991637" s="true" lb="Mandar los datos" rc="200" rm="OK" tn="Usuarios 1-2" dt="text" by="3837" sby="1131" ng="2" na="2">
+  <httpSample t="207" it="0" lt="207" ct="0" ts="1594920991637" s="true" lb="Mandar los datos-0" rc="302" rm="Found" tn="Usuarios 1-2" dt="text" by="1955" sby="567" ng="2" na="2">
+    <java.net.URL>http://testing-ground.scraping.pro/login?mode=login</java.net.URL>
+  </httpSample>
+  <httpSample t="205" it="0" lt="205" ct="0" ts="1594920991845" s="true" lb="Mandar los datos-1" rc="200" rm="OK" tn="Usuarios 1-2" dt="text" by="1882" sby="564" ng="2" na="2">
+    <java.net.URL>http://testing-ground.scraping.pro/login?mode=welcome</java.net.URL>
+  </httpSample>
+  <java.net.URL>http://testing-ground.scraping.pro/login?mode=welcome</java.net.URL>
+</httpSample>
+<httpSample t="364" it="0" lt="183" ct="0" ts="1594920992732" s="true" lb="Mandar los datos" rc="200" rm="OK" tn="Usuarios 1-1" dt="text" by="3837" sby="1131" ng="2" na="2">
+  <httpSample t="183" it="0" lt="183" ct="0" ts="1594920992732" s="true" lb="Mandar los datos-0" rc="302" rm="Found" tn="Usuarios 1-1" dt="text" by="1955" sby="567" ng="2" na="2">
+    <java.net.URL>http://testing-ground.scraping.pro/login?mode=login</java.net.URL>
+  </httpSample>
+  <httpSample t="180" it="0" lt="180" ct="0" ts="1594920992916" s="true" lb="Mandar los datos-1" rc="200" rm="OK" tn="Usuarios 1-1" dt="text" by="1882" sby="564" ng="2" na="2">
+    <java.net.URL>http://testing-ground.scraping.pro/login?mode=welcome</java.net.URL>
+  </httpSample>
+  <java.net.URL>http://testing-ground.scraping.pro/login?mode=welcome</java.net.URL>
+</httpSample>
+<httpSample t="206" it="0" lt="206" ct="0" ts="1594920993681" s="true" lb="Ver respuesta" rc="200" rm="OK" tn="Usuarios 1-2" dt="text" by="1882" sby="471" ng="2" na="2">
+  <assertionResult>
+    <name>Aserción de Respuesta</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>http://testing-ground.scraping.pro/login?mode=welcome</java.net.URL>
+</httpSample>
+<httpSample t="180" it="0" lt="180" ct="0" ts="1594920995217" s="true" lb="Ver respuesta" rc="200" rm="OK" tn="Usuarios 1-1" dt="text" by="1882" sby="471" ng="2" na="2">
+  <assertionResult>
+    <name>Aserción de Respuesta</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>http://testing-ground.scraping.pro/login?mode=welcome</java.net.URL>
+</httpSample>
+<httpSample t="205" it="0" lt="205" ct="0" ts="1594920995312" s="true" lb="Mostrar formulario" rc="200" rm="OK" tn="Usuarios 1-2" dt="text" by="2061" sby="398" ng="2" na="2">
+  <assertionResult>
+    <name>Aserción de Respuesta</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Aserción de Tamaño</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Aserción de Duración</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>http://testing-ground.scraping.pro/login</java.net.URL>
+</httpSample>
+<httpSample t="182" it="0" lt="182" ct="0" ts="1594920997584" s="true" lb="Mostrar formulario" rc="200" rm="OK" tn="Usuarios 1-1" dt="text" by="2061" sby="398" ng="2" na="2">
+  <assertionResult>
+    <name>Aserción de Respuesta</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Aserción de Tamaño</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Aserción de Duración</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>http://testing-ground.scraping.pro/login</java.net.URL>
+</httpSample>
+<httpSample t="361" it="0" lt="181" ct="0" ts="1594920998921" s="true" lb="Mandar los datos" rc="200" rm="OK" tn="Usuarios 1-1" dt="text" by="3837" sby="1131" ng="2" na="2">
+  <httpSample t="181" it="0" lt="181" ct="0" ts="1594920998921" s="true" lb="Mandar los datos-0" rc="302" rm="Found" tn="Usuarios 1-1" dt="text" by="1955" sby="567" ng="2" na="2">
+    <java.net.URL>http://testing-ground.scraping.pro/login?mode=login</java.net.URL>
+  </httpSample>
+  <httpSample t="179" it="0" lt="179" ct="0" ts="1594920999103" s="true" lb="Mandar los datos-1" rc="200" rm="OK" tn="Usuarios 1-1" dt="text" by="1882" sby="564" ng="2" na="2">
+    <java.net.URL>http://testing-ground.scraping.pro/login?mode=welcome</java.net.URL>
+  </httpSample>
+  <java.net.URL>http://testing-ground.scraping.pro/login?mode=welcome</java.net.URL>
+</httpSample>
+<httpSample t="2959" it="0" lt="2711" ct="0" ts="1594920996727" s="true" lb="Mandar los datos" rc="200" rm="OK" tn="Usuarios 1-2" dt="text" by="3837" sby="1131" ng="2" na="2">
+  <httpSample t="2753" it="0" lt="2711" ct="0" ts="1594920996727" s="true" lb="Mandar los datos-0" rc="302" rm="Found" tn="Usuarios 1-2" dt="text" by="1955" sby="567" ng="2" na="2">
+    <java.net.URL>http://testing-ground.scraping.pro/login?mode=login</java.net.URL>
+  </httpSample>
+  <httpSample t="205" it="0" lt="205" ct="0" ts="1594920999481" s="true" lb="Mandar los datos-1" rc="200" rm="OK" tn="Usuarios 1-2" dt="text" by="1882" sby="564" ng="2" na="2">
+    <java.net.URL>http://testing-ground.scraping.pro/login?mode=welcome</java.net.URL>
+  </httpSample>
+  <java.net.URL>http://testing-ground.scraping.pro/login?mode=welcome</java.net.URL>
+</httpSample>
+<httpSample t="181" it="0" lt="181" ct="0" ts="1594921001091" s="true" lb="Ver respuesta" rc="200" rm="OK" tn="Usuarios 1-1" dt="text" by="1882" sby="471" ng="2" na="2">
+  <assertionResult>
+    <name>Aserción de Respuesta</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>http://testing-ground.scraping.pro/login?mode=welcome</java.net.URL>
+</httpSample>
+<httpSample t="206" it="0" lt="206" ct="0" ts="1594921001592" s="true" lb="Ver respuesta" rc="200" rm="OK" tn="Usuarios 1-2" dt="text" by="1882" sby="471" ng="1" na="1">
+  <assertionResult>
+    <name>Aserción de Respuesta</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>http://testing-ground.scraping.pro/login?mode=welcome</java.net.URL>
+</httpSample>
+<httpSample t="206" it="0" lt="206" ct="0" ts="1594921003433" s="true" lb="Mostrar formulario" rc="200" rm="OK" tn="Usuarios 1-2" dt="text" by="2061" sby="398" ng="1" na="1">
+  <assertionResult>
+    <name>Aserción de Respuesta</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Aserción de Tamaño</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>Aserción de Duración</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>http://testing-ground.scraping.pro/login</java.net.URL>
+</httpSample>
+<httpSample t="411" it="0" lt="206" ct="0" ts="1594921005053" s="true" lb="Mandar los datos" rc="200" rm="OK" tn="Usuarios 1-2" dt="text" by="3837" sby="1131" ng="1" na="1">
+  <httpSample t="206" it="0" lt="206" ct="0" ts="1594921005053" s="true" lb="Mandar los datos-0" rc="302" rm="Found" tn="Usuarios 1-2" dt="text" by="1955" sby="567" ng="1" na="1">
+    <java.net.URL>http://testing-ground.scraping.pro/login?mode=login</java.net.URL>
+  </httpSample>
+  <httpSample t="205" it="0" lt="205" ct="0" ts="1594921005259" s="true" lb="Mandar los datos-1" rc="200" rm="OK" tn="Usuarios 1-2" dt="text" by="1882" sby="564" ng="1" na="1">
+    <java.net.URL>http://testing-ground.scraping.pro/login?mode=welcome</java.net.URL>
+  </httpSample>
+  <java.net.URL>http://testing-ground.scraping.pro/login?mode=welcome</java.net.URL>
+</httpSample>
+<httpSample t="205" it="0" lt="205" ct="0" ts="1594921006881" s="true" lb="Ver respuesta" rc="200" rm="OK" tn="Usuarios 1-2" dt="text" by="1882" sby="471" ng="1" na="1">
+  <assertionResult>
+    <name>Aserción de Respuesta</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>http://testing-ground.scraping.pro/login?mode=welcome</java.net.URL>
+</httpSample>
+
+</testResults>
