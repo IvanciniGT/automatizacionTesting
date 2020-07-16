@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6de33633-df33-4123-a2fb-a65cc92410f9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../jenkins/copy_reference_file.log" beforeDir="false" afterPath="$PROJECT_DIR$/../jenkins/copy_reference_file.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jenkins/jobs/Python/config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../jenkins/jobs/Python/config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jenkins/logs/tasks/Download metadata.log" beforeDir="false" afterPath="$PROJECT_DIR$/../jenkins/logs/tasks/Download metadata.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jenkins/logs/tasks/Download metadata.log.1" beforeDir="false" afterPath="$PROJECT_DIR$/../jenkins/logs/tasks/Download metadata.log.1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jenkins/queue.xml.bak" beforeDir="false" afterPath="$PROJECT_DIR$/../jenkins/queue.xml.bak" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jenkins/updates/default.json" beforeDir="false" afterPath="$PROJECT_DIR$/../jenkins/updates/default.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jenkins/updates/hudson.plugins.gradle.GradleInstaller" beforeDir="false" afterPath="$PROJECT_DIR$/../jenkins/updates/hudson.plugins.gradle.GradleInstaller" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1ejOayUWsRI4QQsk6bdnwpmSgfS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6de33633-df33-4123-a2fb-a65cc92410f9" name="Default Changelist" comment="" />
+      <created>1594831602749</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594831602749</updated>
+    </task>
+    <servers />
+  </component>
+</project>
