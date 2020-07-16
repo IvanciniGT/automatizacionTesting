@@ -16,26 +16,32 @@ def step_impl(context, url, titulo):
   titulo_leido=navegador.title
   assert titulo_leido == titulo
   context.navegador=navegador
-@when('un usuario registrado intenta acceder a la aplicación rellenando en un campo con id \"{user_id}\" el valor \"{user}\" y en el campo con id \"{pwd_id}\" el valor  \"{pwd}\" incorrectos')
+
+@when('un usuario registrado intenta acceder a la aplicación rellenando en un campo con nombre \"{user_id}\" el valor \"{user}\" y en el campo con nombre \"{pwd_id}\" el valor \"{pwd}\" incorrectos')
 def step_impl(context, user_id,user, pwd_id,pwd):
   # Configurar el driver
   context.navegador.find_element_by_xpath("//input[@id='"+user_id+"']").send_keys(user)
   context.navegador.find_element_by_xpath("//input[@id='"+pwd_id+"']").send_keys(pwd)
 
-@when('al dar clic en el botón con texto: \"{btn_text}\"')
+@when('al dar clic en el input de tipo submit con value: \"{btn_text}\"')
 def step_impl(context,btn_text):
-  context.navegador.find_element_by_xpath("//button[text()='"+btn_text+"']").click()
+  context.navegador.find_element_by_xpath("//input[@type='submit' and @value='"+btn_text+"']").click()
 
 @then('\"{accede}\" acceso al usuario')
 def step_impl(context, accede):
-  assert True
+  if accede== 'no se permite':
+    assert context.navegador.find_element_by_xpath("//h3[@class='error']") is not None
 
 @then('genera mensaje de error \"{error_msg}\"')
 def step_impl(context,error_msg):
-  assert True
+  print(context.navegador.find_element_by_xpath("//h3").text)
+  assert context.navegador.find_element_by_xpath("//h3").text==error_msg
 
 
 @then('que tarde menos de \"{tiempo}\" segundos')
 def step_impl(context,tiempo):
   ## Llamar a jmeter 50 veces y mirar el tiempo medio y ver que esta por debajo de ese valor
   assert True
+
+def before_all(context):
+  context.navegador.quit()

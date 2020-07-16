@@ -1,0 +1,100 @@
+1594914651528	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileGlyTnh"
+*** You are running in headless mode.
+1594914654504	Marionette	INFO	Listening on port 35007
+1594914654581	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594914664216	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQCfCuP"
+*** You are running in headless mode.
+1594914668428	Marionette	INFO	Listening on port 45067
+1594914668473	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594914679889	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilegnmKHc"
+*** You are running in headless mode.
+1594914684318	Marionette	INFO	Listening on port 34239
+1594914684435	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594915205547	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilekdwb31"
+*** You are running in headless mode.
+1594915209028	Marionette	INFO	Listening on port 36867
+1594915209066	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://testing-ground.scraping.pro/js/vendor/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1594915211866	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileAEru7r"
+*** You are running in headless mode.
+1594915215091	Marionette	INFO	Listening on port 41847
+1594915215189	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://testing-ground.scraping.pro/js/vendor/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1594915218009	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilecxR4Ik"
+*** You are running in headless mode.
+1594915221601	Marionette	INFO	Listening on port 38071
+1594915221729	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://testing-ground.scraping.pro/js/vendor/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1594915288974	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileMyNEbW"
+*** You are running in headless mode.
+Exiting due to channel error.
+Exiting due to channel error.
+1594915350226	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileMIFFcy"
+*** You are running in headless mode.
+Exiting due to channel error.
+Exiting due to channel error.
+1594915411782	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileF7QA7d"
+*** You are running in headless mode.
+1594915451428	Marionette	INFO	Listening on port 46387
+1594915451728	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://testing-ground.scraping.pro/js/vendor/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1594915656200	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileDtkwsK"
+*** You are running in headless mode.
+1594915659860	Marionette	INFO	Listening on port 43713
+1594915659922	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://testing-ground.scraping.pro/js/vendor/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1594915662561	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile2OT7J1"
+*** You are running in headless mode.
+1594915666101	Marionette	INFO	Listening on port 42659
+1594915666181	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://testing-ground.scraping.pro/js/vendor/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1594915668966	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilexVAxDu"
+*** You are running in headless mode.
+1594915672430	Marionette	INFO	Listening on port 34575
+1594915672495	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://testing-ground.scraping.pro/js/vendor/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1594915857974	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUZqTjk"
+*** You are running in headless mode.
+1594915860994	Marionette	INFO	Listening on port 46351
+1594915861093	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://testing-ground.scraping.pro/js/vendor/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1594915903411	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileSUR2UL"
+*** You are running in headless mode.
+1594915906705	Marionette	INFO	Listening on port 46357
+1594915906733	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://testing-ground.scraping.pro/js/vendor/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1594915928277	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile9ehC26"
+*** You are running in headless mode.
+1594915931611	Marionette	INFO	Listening on port 42543
+1594915931729	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://testing-ground.scraping.pro/js/vendor/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1594915961218	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileT7cgb6"
+*** You are running in headless mode.
+1594915968980	Marionette	INFO	Listening on port 36401
+1594915969032	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://testing-ground.scraping.pro/js/vendor/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://testing-ground.scraping.pro/js/vendor/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1594916242211	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilektUdib"
+*** You are running in headless mode.
+1594916246501	Marionette	INFO	Listening on port 39863
+1594916246540	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://testing-ground.scraping.pro/js/vendor/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://testing-ground.scraping.pro/js/vendor/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1594916314801	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilertUZqL"
+*** You are running in headless mode.
+1594916317929	Marionette	INFO	Listening on port 38789
+1594916318020	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://testing-ground.scraping.pro/js/vendor/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://testing-ground.scraping.pro/js/vendor/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1594916341704	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileAkreLY"
+*** You are running in headless mode.
+1594916344968	Marionette	INFO	Listening on port 34799
+1594916345030	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://testing-ground.scraping.pro/js/vendor/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://testing-ground.scraping.pro/js/vendor/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1594916380040	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileB8j8PN"
+*** You are running in headless mode.
+1594916383151	Marionette	INFO	Listening on port 35059
+1594916383186	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://testing-ground.scraping.pro/js/vendor/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://testing-ground.scraping.pro/js/vendor/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
