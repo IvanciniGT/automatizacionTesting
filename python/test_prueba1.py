@@ -10,7 +10,11 @@ class Test(TestCase):
 
     def test_es_impar2(self):
         resultado = es_impar(-1)
-        self.assertFalse(resultado)
+        self.assertTrue(resultado)
+
+    def test_es_impar3(self):
+        resultado = es_impar(9)
+        self.assertTrue(resultado)
 
     def test_no_es_impar(self):
         resultado = es_impar(4)
