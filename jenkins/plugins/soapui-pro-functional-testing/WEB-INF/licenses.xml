@@ -1,2 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<l:dependencies xmlns:l='licenses' groupId='org.jenkins-ci.plugins' artifactId='soapui-pro-functional-testing' version='1.5'><l:dependency name='SoapUI Pro Functional Testing Plugin' groupId='org.jenkins-ci.plugins' artifactId='soapui-pro-functional-testing' version='1.5' url='https://github.com/jenkinsci/soapui-pro-functional-testing-plugin'><l:description>The Jenkins Plugins Parent POM Project</l:description><l:license name='GPL license' url=''/></l:dependency></l:dependencies>
